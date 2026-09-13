@@ -94,14 +94,20 @@ Because Cowrie is an emulated honeypot, the recorded `succeeded` authentication 
 
 ## Portfolio Evidence to Add
 
-Add screenshots showing:
+### Cowrie Honeypot Running
+![Cowrie Status](screenshots/01-cowrie-status.png)
 
-1. Cowrie running with `cowrie status`.
-2. TCP/2222 listening on Ubuntu.
-3. Kali SSH connection to the honeypot.
-4. Cowrie authentication log entries.
-5. Cowrie command log entries.
-6. TTY/session recording files.
+### SSH Honeypot Port
+![Port 2222](screenshots/02-port-2222.png)
+
+### SSH Connection from Kali
+![SSH Connection](screenshots/03-kali-ssh-connection.png)
+
+### Authentication Analysis
+![Authentication Log](screenshots/04-authentication-log.png)
+
+### Command Activity
+![Command Analysis](screenshots/05-command-analysis.png)
 
 ## Author
 
