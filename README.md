@@ -107,6 +107,7 @@ Because Cowrie is an emulated honeypot, the recorded `succeeded` authentication 
 ![Authentication Log](screenshots/04-authentication-log.png)
 
 ### Command Activity
+
 ![Command Analysis](screenshots/05-command-analysis.png)
 
 ## Author
